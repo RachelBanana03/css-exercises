@@ -31,7 +31,7 @@ li {
   background-color: #393f4d;
   grid-area: header;
   display: grid;
-  grid-template-columns: 1fr 4fr;
+  grid-template-columns: 1fr 3fr;
 }
 
 .menu {
@@ -118,6 +118,7 @@ li {
   color: black;
   font-weight: normal;
   font-size: 14px;
+  padding: 5px;
 }
 
 .card .title {
